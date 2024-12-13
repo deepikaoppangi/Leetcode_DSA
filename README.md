@@ -15,4 +15,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Sorting
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Simulation
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
