@@ -1,38 +1,68 @@
 class Solution {
 public:
     string repeatLimitedString(string s, int repeatLimit) {
-        map<char, int, greater<char>> freq;
+        // Create a frequency array to count character occurrences
+        vector<int> freq(26, 0);
         for (char ch : s) {
-            freq[ch]++;
+            freq[ch - 'a']++;
         }
-        string result = "";
-        while (!freq.empty()) {
-            auto it = freq.begin(); 
-            char currentChar = it->first;
-            int count = it->second;
-            int useCount = min(count, repeatLimit);
-            result.append(useCount, currentChar);
-            freq[currentChar] -= useCount; 
-            if (freq[currentChar] == 0) {
-                freq.erase(currentChar);
+        
+        // Create a max priority queue to store characters by their lexicographic order
+        priority_queue<pair<char, int>> pq;
+        
+        // Add characters with non-zero frequencies to the priority queue
+        for (char ch = 'z'; ch >= 'a'; ch--) {
+            if (freq[ch - 'a'] > 0) {
+                pq.push({ch, freq[ch - 'a']});
             }
-            int tempcn= freq[currentChar];
-            char temp = currentChar;
-            freq.erase(currentChar);
-            if (tempcn>0  && !freq.empty()) {
-                auto nextIt = freq.begin();
-                char nextChar = nextIt->first;
-                result += nextChar;      
-                freq[nextChar]--;
-                freq[temp] = tempcn;
-                if (freq[nextChar] == 0) {
-                    freq.erase(nextChar);
+        }
+        
+        string result;
+        
+        while (!pq.empty()) {
+            // Get the most frequent character
+            char currentChar = pq.top().first;
+            int currentCount = pq.top().second;
+            pq.pop();
+            
+            // If result is empty or last character is different
+            if (result.empty() || result.back() != currentChar) {
+                // Add as many characters as possible within repeat limit
+                int addCount = min(currentCount, repeatLimit);
+                result.append(addCount, currentChar);
+                currentCount -= addCount;
+                
+                // If there are remaining characters, add to queue
+                if (currentCount > 0) {
+                    pq.push({currentChar, currentCount});
                 }
             } 
-            else if (useCount == repeatLimit && freq.empty()) {
+            // If we can't add more of current character due to repeat limit
+            else if (!pq.empty()) {
+                // Get next character
+                char nextChar = pq.top().first;
+                int nextCount = pq.top().second;
+                pq.pop();
+                
+                // Add one of the next character
+                result += nextChar;
+                nextCount--;
+                
+                // Put back characters if they still exist
+                if (nextCount > 0) {
+                    pq.push({nextChar, nextCount});
+                }
+                // Put back current character if it still exists
+                if (currentCount > 0) {
+                    pq.push({currentChar, currentCount});
+                }
+            }
+            // If no other characters available, we're done
+            else {
                 break;
             }
         }
+        
         return result;
     }
 };
