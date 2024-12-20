@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0940-fruit-into-baskets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2300-construct-string-with-repeat-limit) |
 ## Math
@@ -97,9 +100,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
