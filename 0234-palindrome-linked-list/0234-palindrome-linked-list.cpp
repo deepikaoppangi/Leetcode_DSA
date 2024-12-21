@@ -8,57 +8,84 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+
+//////////brute force.
+
 // class Solution {
 // public:
 //     bool isPalindrome(ListNode* head) {
 //         if(head==NULL){
 //             return true;
 //         }
-//         //reversed
-//         ListNode* prev = NULL;
-//         ListNode* front = NULL;
+//         vector<int>arr; 
 //         ListNode* temp = head;
-//         while(temp!=NULL){
-//             front = temp->next;
-//             temp->next = prev;
-//             prev = temp;
-//             temp = front;
+//         while(temp){
+//             arr.push_back(temp->val);
+//             temp=temp->next;
 //         }
-//         //checked
-//         ListNode* temp1=head;
-//         ListNode* temp2=prev;
-//         while(temp1!=NULL && temp2!= NULL){
-//             if(temp1->val!=temp2->val){
+//         int low = 0;
+//         int high = arr.size()-1;
+//         while(low<high){
+//             if(arr[low]!=arr[high]){
 //                 return false;
 //             }
-//             temp1=temp1->next;
-//             temp2=temp2->next;
+//             low++;
+//             high--;
 //         }
 //         return true;
 //     } 
 // };
 
+
+// optimal
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(head==NULL){
+        if (head == NULL) {
             return true;
         }
-        vector<int>arr; 
-        ListNode* temp = head;
-        while(temp){
-            arr.push_back(temp->val);
-            temp=temp->next;
+
+        // Step 1: Find the middle of the list using slow and fast pointers
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int low = 0;
-        int high = arr.size()-1;
-        while(low<high){
-            if(arr[low]!=arr[high]){
-                return false;
+
+        // Step 2: Reverse the second half of the list
+        ListNode* prev = NULL;
+        ListNode* temp = slow;
+        while (temp != NULL) {
+            ListNode* nextTemp = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = nextTemp;
+        }
+
+        // Step 3: Compare the first half and the reversed second half
+        ListNode* firstHalf = head;
+        ListNode* secondHalf = prev;
+        while (secondHalf != NULL) {
+            if (firstHalf->val != secondHalf->val) {
+                return false;  // Not a palindrome
             }
-            low++;
-            high--;
+            firstHalf = firstHalf->next;
+            secondHalf = secondHalf->next;
         }
-        return true;
-    } 
+
+        // Step 4: Restore the original structure of the second half (optional)
+        // Reverse the second half back to its original structure
+        ListNode* current = prev;
+        prev = NULL;
+        while (current != NULL) {
+            ListNode* nextTemp = current->next;
+            current->next = prev;
+            prev = current;
+            current = nextTemp;
+        }
+
+        return true;  // It is a palindrome
+    }
 };
