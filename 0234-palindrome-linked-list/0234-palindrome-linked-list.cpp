@@ -77,14 +77,14 @@ public:
 
         // Step 4: Restore the original structure of the second half (optional)
         // Reverse the second half back to its original structure
-        ListNode* current = prev;
-        prev = NULL;
-        while (current != NULL) {
-            ListNode* nextTemp = current->next;
-            current->next = prev;
-            prev = current;
-            current = nextTemp;
-        }
+        // ListNode* current = prev;
+        // prev = NULL;
+        // while (current != NULL) {
+        //     ListNode* nextTemp = current->next;
+        //     current->next = prev;
+        //     prev = current;
+        //     current = nextTemp;
+        // }
 
         return true;  // It is a palindrome
     }
