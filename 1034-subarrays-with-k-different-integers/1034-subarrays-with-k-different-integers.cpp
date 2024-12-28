@@ -9,9 +9,12 @@ public:
         map<int,int>mpp;
         int start=0;
         for(int end=0;end<n;end++){
+
             mpp[nums[end]]++;
+
             while(mpp.size()>k){
                 mpp[nums[start]]--;
+
                 if(mpp[nums[start]]==0){
                     mpp.erase(nums[start]);
                 }
@@ -22,7 +25,8 @@ public:
         return cnt;
     }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        //no.of subarray's  with <=k - no.of subarray's <=k-1
+        // The no of subarrays with exactly k distinct integers is:
+        // (subarrays with <=k distinct integers) - (subarrays with <=k-1 distinct integers)
         return fun(nums,k)-fun(nums,k-1);
     }
 };
