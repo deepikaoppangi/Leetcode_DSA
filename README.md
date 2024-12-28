@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
+| [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2300-construct-string-with-repeat-limit](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2868-continuous-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
