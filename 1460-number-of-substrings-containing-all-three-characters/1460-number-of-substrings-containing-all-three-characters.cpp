@@ -42,41 +42,45 @@
 //     }
 // };
 
-class Solution {
-public:
-    int numberOfSubstrings(string s) {
-        int n = s.size();
-        int cnt=0;
-        int hash[3]={-1,-1,-1};
-        for(int i=0;i<n;i++){
-            hash[s[i]-'a']=i;
-            cnt = cnt + min(hash[0] , min(hash[1],hash[2]) ) + 1; 
-        }
-        return cnt;
-    }
-};
-
 // class Solution {
 // public:
 //     int numberOfSubstrings(string s) {
-//         int l = 0;
 //         int n = s.size();
-//         int hash[3] = {0};
-//         int typecnt = 0;
-//         long long cnt = 0;
-
-//         for(int r=0; r<n; r++){
-//             if(hash[s[r]-'a'] == 0) typecnt++;
-//             hash[s[r]-'a']++;
-
-//             while(typecnt>2){
-//                 hash[s[l]-'a']--;
-//                 if(hash[s[l]-'a'] == 0) typecnt--;
-//                 l++;
-//             }
-
-//             cnt += r-l+1;
+//         int cnt=0;
+//         int hash[3]={-1,-1,-1};
+//         for(int i=0;i<n;i++){
+//             hash[s[i]-'a']=i;
+//             cnt = cnt + min(hash[0] , min(hash[1],hash[2]) ) + 1; 
 //         }
-//         return static_cast<long long>(n) * (n + 1) / 2 - cnt;
+//         return cnt;
 //     }
 // };
+
+class Solution {
+public:
+    int numberOfSubstrings(string s) {
+        int start = 0;
+        int n = s.size();
+        int hash[3] = {0};
+        int k = 0;
+        long long cnt = 0;
+//we need k = 3 types , so (k<=3 types) - (k<=2 types) => k=3 types.
+//here k<=3 types means , everytime we will have <=3 times only  = total= n*(n+1)/2
+        for(int end=0;end<n;end++){
+            if(hash[s[end]-'a'] == 0){
+                k++;
+            }
+            hash[s[end]-'a']++;
+            while(k>2){
+                hash[s[start]-'a']--;
+                if(hash[s[start]-'a'] == 0){
+                    k--;
+                }
+                start++;
+            }
+
+            cnt = cnt+ (end-start+1);
+        }
+        return (long long)(n)*(n + 1) / 2 - cnt;
+    }
+};
