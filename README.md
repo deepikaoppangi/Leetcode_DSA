@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
