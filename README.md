@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2868-continuous-subarrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2868-continuous-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
@@ -223,9 +227,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2562-count-ways-to-build-good-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
