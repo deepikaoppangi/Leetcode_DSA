@@ -28,30 +28,34 @@ public:
 //             sum=sum+nums[i];
 //         }
 //         int sum2= (sum-target)/2;
-//         vector<vector<int>> dp(n,vector<int>(sum2+1,0));
-
+//         vector<int>prev(sum2+1,0);
+//         vector<int>curr(sum2+1,0);
+//         if (sum2 > 1000 * n) {  // Adjust this threshold as needed
+//             return 0;
+//         }
 //         if((sum-target)<0 || (sum-target)%2!=0){
 //             return 0;
 //         }
 //         if(nums[0]==0){
-//             dp[0][0]=2;
+//             prev[0]=2;
 //         }
 //         else if(nums[0]!=0){
-//             dp[0][0]=1;
+//             prev[0]=1;
 //         }
 //         if(nums[0]!=0 && nums[0]<=sum2){
-//             dp[0][nums[0]]=1;
+//             prev[nums[0]]=1;
 //         }
 //         for(int i=1;i<n;i++){
 //             for(int j=0;j<=sum2;j++){
-//                 int nonpick = dp[i-1][j];
+//                 int nonpick = prev[j];
 //                 int pick = 0;
 //                 if(j>=nums[i]){
-//                     pick = dp[i-1][j-nums[i]];
+//                     pick = prev[j-nums[i]];
 //                 }
-//                 dp[i][j]=pick+nonpick;
+//                 curr[j]=pick+nonpick;
 //             }
+//             prev=curr;
 //         }
-//         return dp[n-1][sum2];
+//         return prev[sum2];
 //     }
 // };  
