@@ -43,9 +43,9 @@ public:
         if(target==0){
             return 1;
         }
-        if(target<0){
-            return 0;
-        }
+        // if(target<0){
+        //     return 0;
+        // }
         if(dp[i][target]!=-1){
             return dp[i][target];
         }
