@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1025-minimum-cost-for-tickets) |
