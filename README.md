@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0322-coin-change) |
