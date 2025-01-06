@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0940-fruit-into-baskets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1170-shortest-common-supersequence) |
