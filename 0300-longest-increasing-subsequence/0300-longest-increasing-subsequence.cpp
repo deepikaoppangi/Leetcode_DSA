@@ -44,7 +44,7 @@
 // };
 
 
-///bottom up
+///bottom up    TC ->O(N^2) ,  SC->O(N^2)
 
 
 // class Solution {
@@ -65,30 +65,30 @@
 //         return dp[0][0];
 //     }
 // };
+ 
+//////space optimized   TC ->O(N^2) ,  SC->O(2N)
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> after(n+1,0);
+//         vector<int> curr(n+1,0);
+//         for(int i=n-1;i>=0;i--){
+//             for(int prev_ind=i-1; prev_ind>=-1;prev_ind--){
+//                 int take=0;
+//                 if(prev_ind==-1 || nums[i]>nums[prev_ind]){
+//                     take = 1+ after[i+1];
+//                 }
+//                 int nontake = after[prev_ind+1];
+//                 curr[prev_ind+1] = max(take,nontake);
+//             }
+//             after=curr;
+//         }
+//         return after[0];
+//     }
+// };
 
-//////space optimized 
-class Solution {
-public:
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> after(n+1,0);
-        vector<int> curr(n+1,0);
-        for(int i=n-1;i>=0;i--){
-            for(int prev_ind=i-1; prev_ind>=-1;prev_ind--){
-                int take=0;
-                if(prev_ind==-1 || nums[i]>nums[prev_ind]){
-                    take = 1+ after[i+1];
-                }
-                int nontake = after[prev_ind+1];
-                curr[prev_ind+1] = max(take,nontake);
-            }
-            after=curr;
-        }
-        return after[0];
-    }
-};
-
-//////////////////////nice 
+//////////////////////nice  TC ->O(N^2) ,  SC->//O(N) 
 // class Solution {
 // public:
 //     int lengthOfLIS(vector<int>& nums) {
@@ -109,3 +109,23 @@ public:
 //     }
 // };
 
+////////////Binary search 
+
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        for(int i=1;i<n;i++){
+            if(nums[i]>temp.back()){
+                temp.push_back(nums[i]);
+            }
+            else{
+                int ind = lower_bound(temp.begin(),temp.end(),nums[i])-temp.begin();
+                temp[ind]=nums[i];
+            }
+        }
+        return temp.size();
+    }
+};
