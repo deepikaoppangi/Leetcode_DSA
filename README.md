@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
+| [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
+| [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
