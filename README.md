@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0952-word-subsets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1250-longest-common-subsequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1078-remove-outermost-parentheses](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
