@@ -22,6 +22,7 @@
 //     }
 // };
 
+///T.C --> O(n log n * m)
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
