@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0952-word-subsets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0583-delete-operation-for-two-strings) |
