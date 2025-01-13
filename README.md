@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
