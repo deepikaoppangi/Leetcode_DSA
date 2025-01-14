@@ -18,7 +18,7 @@ public:
                     for(int j=0;j<=i;j++){
                         if(A[k]==B[j]){
                             ans[i]=1+ans[i];
-                            //break;
+                            break;
                         }
                     }
                 }
