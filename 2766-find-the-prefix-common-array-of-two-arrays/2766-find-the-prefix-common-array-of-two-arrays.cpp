@@ -28,26 +28,48 @@
 // };
 
 
+// class Solution {
+// public:
+//     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
+//         int n = A.size();
+//         vector<int> ans(n, 0);
+//         unordered_set<int> setA;
+//         unordered_set<int> setB;
+
+//         for (int i = 0; i < n; ++i) {
+//             setA.insert(A[i]);
+//             setB.insert(B[i]);
+//             int cnt = 0;
+//             for (auto it = setA.begin(); it != setA.end(); ++it) {
+//                 if (setB.count(*it)) {
+//                     cnt++;
+//                 }
+//             }
+//             ans[i] = cnt;
+//         }
+        
+//         return ans;
+//     }
+// };
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
         int n = A.size();
-        vector<int> ans(n, 0);
-        unordered_set<int> setA;
-        unordered_set<int> setB;
-
+        vector<int> result(n);
+        vector<int> freq(n + 1, 0); 
+        int cnt = 0;
         for (int i = 0; i < n; ++i) {
-            setA.insert(A[i]);
-            setB.insert(B[i]);
-            int cnt = 0;
-            for (auto it = setA.begin(); it != setA.end(); ++it) {
-                if (setB.count(*it)) {
-                    cnt++;
-                }
+            if (freq[A[i]] == 1) {
+                ++cnt; 
             }
-            ans[i] = cnt;
+            freq[A[i]] += 1;
+            if (freq[B[i]] == 1) {
+                ++cnt;
+            }
+            freq[B[i]] += 1;
+            result[i] = cnt; 
         }
-        
-        return ans;
+        return result;
     }
 };
+
