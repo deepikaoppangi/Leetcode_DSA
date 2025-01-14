@@ -12,8 +12,8 @@ public:
                 ans[i]=1+ans[i-1];
             }
             else{
-                sort(A.begin(),A.begin()+i+1); //from 0th to ith index
-                sort(B.begin(),B.begin()+i+1); //from 0th to ith index
+                //sort(A.begin(),A.begin()+i+1); //from 0th to ith index
+                //sort(B.begin(),B.begin()+i+1); //from 0th to ith index
                 for(int k=0;k<=i;k++){
                     for(int j=0;j<=i;j++){
                         if(A[k]==B[j]){
