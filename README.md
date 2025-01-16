@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
