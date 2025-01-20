@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
 |  |
@@ -389,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
