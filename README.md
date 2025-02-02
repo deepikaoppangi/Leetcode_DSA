@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
