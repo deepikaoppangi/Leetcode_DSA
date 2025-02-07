@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0518-coin-change-ii) |
+| [0587-erect-the-fence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0368-largest-divisible-subset) |
+| [0587-erect-the-fence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
