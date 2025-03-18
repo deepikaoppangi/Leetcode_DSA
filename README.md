@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0780-max-chunks-to-make-sorted](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0587-erect-the-fence) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
