@@ -25,34 +25,35 @@
 
 
 /////////////correct solution with o(n^2)
+
 // class Solution {
 // public:
 //     vector<int> twoSum(vector<int>& nums, int target) {
 //         int n = nums.size();
-//         vector<int>result;
 //         for (int i = 0 ;i < n ; i++){
 //             for(int j =i+1 ;j<n;j++){
 //                 if(nums[i]+nums[j] == target){
-//                     result.push_back(i);
-//                     result.push_back(j);
-//                     return result;
+//                     return {i,j};
 //                 }
 //             }
 //         }
-//         return result;
+//         return {};
 //     }
 // };
 
-
+/////optimal
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n = nums.size();
+        unordered_map<int,int>mpp;
         for (int i = 0 ;i < n ; i++){
-            for(int j =i+1 ;j<n;j++){
-                if(nums[i]+nums[j] == target){
-                    return {i,j};
-                }
+            int temp=target-nums[i];
+            if(mpp.find(temp)!=mpp.end()){
+                return {mpp[temp],i};
+            }
+            else{
+                mpp[nums[i]]=i;
             }
         }
         return {};
