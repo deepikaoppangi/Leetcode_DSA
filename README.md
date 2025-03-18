@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0322-coin-change) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
