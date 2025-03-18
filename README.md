@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0587-erect-the-fence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [2032-largest-odd-number-in-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0587-erect-the-fence) |
+| [1395-minimum-time-visiting-all-points](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1395-minimum-time-visiting-all-points) |
 ## Counting Sort
 |  |
 | ------- |
