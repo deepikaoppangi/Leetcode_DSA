@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 ## Geometry
 |  |
