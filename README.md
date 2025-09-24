@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1129-longest-string-chain) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0322-coin-change) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2509-minimize-xor](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2509-minimize-xor) |
