@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [2288-count-operations-to-obtain-zero](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [2032-largest-odd-number-in-string](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepikaoppangi/Leetcode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
